@@ -1,5 +1,4 @@
 ﻿using System;
-using Microsoft.CognitiveServices.Speech;
 using SpeechLib.Synthesis;
 using static System.Console;
 
